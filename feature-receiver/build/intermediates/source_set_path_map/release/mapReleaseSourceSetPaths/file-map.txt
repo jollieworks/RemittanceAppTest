@@ -1,0 +1,8 @@
+com.remittanceapp.test.feature.receiver.feature-receiver-pngs-0 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\build\generated\res\pngs\release
+com.remittanceapp.test.feature.receiver.feature-receiver-resValues-1 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\build\generated\res\resValues\release
+com.remittanceapp.test.feature.receiver.feature-receiver-updated_navigation_xml-2 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\build\generated\updated_navigation_xml\release
+com.remittanceapp.test.feature.receiver.feature-receiver-mergeReleaseResources-3 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.remittanceapp.test.feature.receiver.feature-receiver-mergeReleaseResources-4 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.remittanceapp.test.feature.receiver.feature-receiver-release-5 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\build\intermediates\merged_res\release\mergeReleaseResources
+com.remittanceapp.test.feature.receiver.feature-receiver-main-6 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\src\main\res
+com.remittanceapp.test.feature.receiver.feature-receiver-release-7 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\src\release\res

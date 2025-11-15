@@ -1,0 +1,8 @@
+com.remittanceapp.test.data-pngs-0 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\data\build\generated\res\pngs\release
+com.remittanceapp.test.data-resValues-1 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\data\build\generated\res\resValues\release
+com.remittanceapp.test.data-updated_navigation_xml-2 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\data\build\generated\updated_navigation_xml\release
+com.remittanceapp.test.data-mergeReleaseResources-3 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\data\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.remittanceapp.test.data-mergeReleaseResources-4 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\data\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.remittanceapp.test.data-release-5 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\data\build\intermediates\merged_res\release\mergeReleaseResources
+com.remittanceapp.test.data-main-6 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\data\src\main\res
+com.remittanceapp.test.data-release-7 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\data\src\release\res

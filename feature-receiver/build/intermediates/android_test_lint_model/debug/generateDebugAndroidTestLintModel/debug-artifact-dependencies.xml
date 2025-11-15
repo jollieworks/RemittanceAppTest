@@ -1,0 +1,26 @@
+<dependencies>
+  <compile
+      roots=":@@:feature-receiver::debug,org.jetbrains.kotlin:kotlin-stdlib:2.2.21@jar,org.jetbrains:annotations:13.0@jar">
+    <dependency
+        name=":@@:feature-receiver::debug"
+        simpleName="RemittanceAppTest:feature-receiver"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:2.2.21@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:13.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </compile>
+  <package
+      roots=":@@:feature-receiver::debug,org.jetbrains.kotlin:kotlin-stdlib:2.2.21@jar,org.jetbrains:annotations:13.0@jar">
+    <dependency
+        name=":@@:feature-receiver::debug"
+        simpleName="RemittanceAppTest:feature-receiver"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:2.2.21@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:13.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </package>
+</dependencies>

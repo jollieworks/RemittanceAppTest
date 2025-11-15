@@ -1,0 +1,8 @@
+com.remittanceapp.test.feature.wallet.feature-wallet-pngs-0 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-wallet\build\generated\res\pngs\release
+com.remittanceapp.test.feature.wallet.feature-wallet-resValues-1 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-wallet\build\generated\res\resValues\release
+com.remittanceapp.test.feature.wallet.feature-wallet-updated_navigation_xml-2 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-wallet\build\generated\updated_navigation_xml\release
+com.remittanceapp.test.feature.wallet.feature-wallet-mergeReleaseResources-3 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-wallet\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.remittanceapp.test.feature.wallet.feature-wallet-mergeReleaseResources-4 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-wallet\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.remittanceapp.test.feature.wallet.feature-wallet-release-5 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-wallet\build\intermediates\merged_res\release\mergeReleaseResources
+com.remittanceapp.test.feature.wallet.feature-wallet-main-6 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-wallet\src\main\res
+com.remittanceapp.test.feature.wallet.feature-wallet-release-7 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-wallet\src\release\res
