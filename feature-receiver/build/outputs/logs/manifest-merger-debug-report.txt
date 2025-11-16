@@ -1,9 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\src\main\AndroidManifest.xml:2:1-5:12
+ADDED from C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\src\main\AndroidManifest.xml:2:1-4:12
 	package
-		ADDED from C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\src\main\AndroidManifest.xml:3:5-54
 		INJECTED from C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\feature-receiver\src\main\AndroidManifest.xml:2:11-69

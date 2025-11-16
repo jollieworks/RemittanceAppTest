@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/feature-onboarding" />
             <option value="$PROJECT_DIR$/feature-receiver" />
             <option value="$PROJECT_DIR$/feature-transactions" />
+            <option value="$PROJECT_DIR$/feature-upload" />
             <option value="$PROJECT_DIR$/feature-wallet" />
             <option value="$PROJECT_DIR$/network" />
           </set>

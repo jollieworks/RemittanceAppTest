@@ -1,6 +1,12 @@
 pluginManagement {
     repositories {
-        google()
+        google {
+            content {
+                includeGroupByRegex("com\\.android.*")
+                includeGroupByRegex("com\\.google.*")
+                includeGroupByRegex("androidx.*")
+            }
+        }
         mavenCentral()
         gradlePluginPortal()
     }
@@ -10,7 +16,6 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven { setUrl("https://jitpack.io") }
     }
 }
 
@@ -20,6 +25,7 @@ include(":feature-onboarding")
 include(":feature-transactions")
 include(":feature-wallet")
 include(":feature-receiver")
+include(":feature-upload")
 include(":core")
 include(":data")
 include(":domain")
