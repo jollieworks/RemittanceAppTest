@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.remittanceapp.test.feature.upload.feature-upload-release-33:/drawable-v21/notification_action_background.xml",
+        "source": "com.remittanceapp.test.feature.upload.feature-upload-core-1.15.0-14:/drawable-v21/notification_action_background.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.remittanceapp.test.feature.wallet.feature-wallet-release-33:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-14:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.remittanceapp.test.feature.wallet.feature-wallet-release-33:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-14:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.remittanceapp.test.feature.wallet.feature-wallet-release-33:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-14:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.remittanceapp.test.feature.wallet.feature-wallet-release-33:/layout-v21/notification_action.xml",
+        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-14:/layout-v21/notification_action.xml"
+    }
+]

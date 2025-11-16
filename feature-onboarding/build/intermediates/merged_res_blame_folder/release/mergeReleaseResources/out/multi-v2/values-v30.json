@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.remittanceapp.test.feature.onboarding.feature-onboarding-release-33:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\8.13\\transforms\\602f40a284fd13263148925555982c79\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.remittanceapp.test.feature.onboarding.feature-onboarding-mergeReleaseResources-31:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\8.13\\transforms\\602f40a284fd13263148925555982c79\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
