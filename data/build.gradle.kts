@@ -1,6 +1,8 @@
 plugins {
     id("com.android.library")
     id("org.jetbrains.kotlin.android")
+    alias(libs.plugins.hilt)
+    alias(libs.plugins.ksp)
 }
 
 android {
@@ -33,5 +35,9 @@ android {
 }
 
 dependencies {
-    // Dependencies will be added in a later phase
+    implementation(project(":domain"))
+    implementation(project(":network"))
+    
+    implementation(libs.hilt.android)
+    ksp(libs.hilt.compiler)
 }
