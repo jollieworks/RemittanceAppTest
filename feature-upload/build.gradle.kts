@@ -33,9 +33,6 @@ android {
     buildFeatures {
         compose = true
     }
-    composeOptions {
-        kotlinCompilerExtensionVersion = libs.versions.composeCompiler.get()
-    }
 }
 
 dependencies {
@@ -47,5 +44,5 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.compose.runtime)
 
-    implementation(libs.kotlinx.coroutines.core) // Added this line
+    implementation(libs.kotlinx.coroutines.core)
 }

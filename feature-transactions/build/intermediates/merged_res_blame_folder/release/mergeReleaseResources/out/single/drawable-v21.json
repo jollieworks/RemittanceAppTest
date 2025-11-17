@@ -1,6 +1,6 @@
 [
     {
         "merged": "com.remittanceapp.test.feature.transactions.feature-transactions-release-33:/drawable-v21/notification_action_background.xml",
-        "source": "com.remittanceapp.test.feature.transactions.feature-transactions-core-1.15.0-14:/drawable-v21/notification_action_background.xml"
+        "source": "com.remittanceapp.test.feature.transactions.feature-transactions-core-1.15.0-1:/drawable-v21/notification_action_background.xml"
     }
 ]

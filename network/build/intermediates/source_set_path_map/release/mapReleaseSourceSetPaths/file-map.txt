@@ -1,8 +1,7 @@
 com.remittanceapp.test.network-pngs-0 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\build\generated\res\pngs\release
 com.remittanceapp.test.network-resValues-1 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\build\generated\res\resValues\release
-com.remittanceapp.test.network-updated_navigation_xml-2 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\build\generated\updated_navigation_xml\release
-com.remittanceapp.test.network-mergeReleaseResources-3 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
-com.remittanceapp.test.network-mergeReleaseResources-4 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-com.remittanceapp.test.network-release-5 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\build\intermediates\merged_res\release\mergeReleaseResources
-com.remittanceapp.test.network-main-6 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\src\main\res
-com.remittanceapp.test.network-release-7 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\src\release\res
+com.remittanceapp.test.network-mergeReleaseResources-2 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.remittanceapp.test.network-mergeReleaseResources-3 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.remittanceapp.test.network-release-4 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\build\intermediates\merged_res\release\mergeReleaseResources
+com.remittanceapp.test.network-main-5 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\src\main\res
+com.remittanceapp.test.network-release-6 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\src\release\res

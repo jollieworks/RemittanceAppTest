@@ -25,6 +25,6 @@
       type="INSTRUMENTATION_TEST"
       applicationId="com.remittanceapp.test.domain.test"
       generatedResourceFolders="build\generated\res\resValues\androidTest\debug"
-      desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\a70f563496856524c8cf4f85aba50dc6\transformed\D8BackportedDesugaredMethods.txt">
+      desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\db434d33240124e328cf52fddcc38753\transformed\D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

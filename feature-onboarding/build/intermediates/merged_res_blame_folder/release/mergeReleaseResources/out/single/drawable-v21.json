@@ -1,6 +1,6 @@
 [
     {
         "merged": "com.remittanceapp.test.feature.onboarding.feature-onboarding-release-33:/drawable-v21/notification_action_background.xml",
-        "source": "com.remittanceapp.test.feature.onboarding.feature-onboarding-core-1.15.0-14:/drawable-v21/notification_action_background.xml"
+        "source": "com.remittanceapp.test.feature.onboarding.feature-onboarding-core-1.15.0-1:/drawable-v21/notification_action_background.xml"
     }
 ]

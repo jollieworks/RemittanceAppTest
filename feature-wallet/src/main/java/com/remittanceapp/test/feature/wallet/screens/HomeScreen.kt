@@ -7,12 +7,21 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Button
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import androidx.hilt.navigation.compose.hiltViewModel
+import com.remittanceapp.test.feature.wallet.viewmodel.HomeViewModel
 
 @Composable
-fun HomeScreen(onUploadClick: () -> Unit) {
+fun HomeScreen(
+    onUploadClick: () -> Unit,
+    viewModel: HomeViewModel = hiltViewModel()
+) {
+    val balanceState by viewModel.balanceState.collectAsState()
+
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -20,7 +29,7 @@ fun HomeScreen(onUploadClick: () -> Unit) {
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        Text("Saldo: €1,234.56 (Mock)")
+        Text("Saldo: ${balanceState.euroBalance} / ${balanceState.srdBalance}")
         Button(onClick = onUploadClick) {
             Text("Upload")
         }

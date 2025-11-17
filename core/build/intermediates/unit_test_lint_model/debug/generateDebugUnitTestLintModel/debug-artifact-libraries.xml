@@ -1,9 +1,9 @@
 <libraries>
   <library
       name=":@@:core::debug"
-      jars="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\c8ba0f189737804cfd938b6ce1804124\transformed\out\jars\classes.jar;C:\Users\Gebruiker\.gradle\caches\8.13\transforms\c8ba0f189737804cfd938b6ce1804124\transformed\out\jars\libs\R.jar"
+      jars="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\9363163b3d3d770759417b51c95eb5c8\transformed\out\jars\classes.jar;C:\Users\Gebruiker\.gradle\caches\8.13\transforms\9363163b3d3d770759417b51c95eb5c8\transformed\out\jars\libs\R.jar"
       resolved="RemittanceAppTest:core:unspecified"
-      folder="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\c8ba0f189737804cfd938b6ce1804124\transformed\out"
+      folder="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\9363163b3d3d770759417b51c95eb5c8\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -13,9 +13,9 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="org.jetbrains.kotlin:kotlin-stdlib:2.2.10@jar"
-      jars="C:\Users\Gebruiker\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\2.2.10\30de6faa127a4a012db8e71bf1b9c0a99b1402b2\kotlin-stdlib-2.2.10.jar"
-      resolved="org.jetbrains.kotlin:kotlin-stdlib:2.2.10"/>
+      name="org.jetbrains.kotlin:kotlin-stdlib:2.0.21@jar"
+      jars="C:\Users\Gebruiker\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\2.0.21\618b539767b4899b4660a83006e052b63f1db551\kotlin-stdlib-2.0.21.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:2.0.21"/>
   <library
       name="org.jetbrains:annotations:13.0@jar"
       jars="C:\Users\Gebruiker\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.remittanceapp.test.feature.wallet.feature-wallet-mergeReleaseResources-31:/values-v30/values-v30.xml",
+            "outputFile": "com.remittanceapp.test.feature.wallet.feature-wallet-release-44:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\8.13\\transforms\\602f40a284fd13263148925555982c79\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\8.13\\transforms\\fba399f67fa80b99fc42a068a5ef6b09\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "com.remittanceapp.test.feature.wallet.feature-wallet-release-33:/values-v30/values-v30.xml",
+            "outputFile": "com.remittanceapp.test.feature.wallet.feature-wallet-mergeReleaseResources-42:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\8.13\\transforms\\602f40a284fd13263148925555982c79\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\8.13\\transforms\\fba399f67fa80b99fc42a068a5ef6b09\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

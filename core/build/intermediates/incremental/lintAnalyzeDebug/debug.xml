@@ -5,10 +5,10 @@
     targetSdkVersion="34"
     debuggable="true"
     mergedManifest="build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml"
-    proguardFiles="build\intermediates\default_proguard_files\global\proguard-android.txt-8.13.1"
+    proguardFiles="build\intermediates\default_proguard_files\global\proguard-android.txt-8.12.1"
     consumerProguardFiles="consumer-rules.pro"
     partialResultsDir="build\intermediates\lint_partial_results\debug\lintAnalyzeDebug\out"
-    desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\a70f563496856524c8cf4f85aba50dc6\transformed\D8BackportedDesugaredMethods.txt">
+    desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\db434d33240124e328cf52fddcc38753\transformed\D8BackportedDesugaredMethods.txt">
   <buildFeatures
       namespacing="REQUIRED"/>
   <sourceProviders>
@@ -28,6 +28,6 @@
       applicationId="com.remittanceapp.test.core"
       generatedSourceFolders="build\generated\ap_generated_sources\debug\out"
       generatedResourceFolders="build\generated\res\resValues\debug"
-      desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\a70f563496856524c8cf4f85aba50dc6\transformed\D8BackportedDesugaredMethods.txt">
+      desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\db434d33240124e328cf52fddcc38753\transformed\D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

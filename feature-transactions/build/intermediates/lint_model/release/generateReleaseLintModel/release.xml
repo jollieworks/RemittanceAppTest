@@ -5,7 +5,7 @@
     targetSdkVersion="34"
     mergedManifest="build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml"
     manifestMergeReport="build\outputs\logs\manifest-merger-release-report.txt"
-    proguardFiles="build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-8.13.1;proguard-rules.pro"
+    proguardFiles="build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-8.12.1;proguard-rules.pro"
     consumerProguardFiles="consumer-rules.pro"
     partialResultsDir="build\intermediates\lint_partial_results\release\lintAnalyzeRelease\out">
   <buildFeatures
@@ -27,6 +27,6 @@
       applicationId="com.remittanceapp.test.feature.transactions"
       generatedSourceFolders="build\generated\ap_generated_sources\release\out"
       generatedResourceFolders="build\generated\res\resValues\release"
-      desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\a70f563496856524c8cf4f85aba50dc6\transformed\D8BackportedDesugaredMethods.txt">
+      desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\db434d33240124e328cf52fddcc38753\transformed\D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>
