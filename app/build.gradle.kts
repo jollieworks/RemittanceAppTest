@@ -64,6 +64,7 @@ android {
 dependencies {
     implementation(platform(libs.kotlin.bom))
 
+    implementation(project(":data")) // Added
     implementation(project(":feature-onboarding"))
     implementation(project(":feature-wallet"))
     implementation(project(":feature-upload"))
@@ -77,7 +78,7 @@ dependencies {
 
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.navigation.compose)
-    implementation(libs.androidx.hilt.navigation.compose) // Added
+    implementation(libs.androidx.hilt.navigation.compose)
 
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.ui)

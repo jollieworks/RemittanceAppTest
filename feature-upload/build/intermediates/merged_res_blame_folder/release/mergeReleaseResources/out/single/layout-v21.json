@@ -1,18 +1,18 @@
 [
     {
-        "merged": "com.remittanceapp.test.feature.upload.feature-upload-release-33:/layout-v21/notification_action.xml",
-        "source": "com.remittanceapp.test.feature.upload.feature-upload-core-1.15.0-1:/layout-v21/notification_action.xml"
+        "merged": "com.remittanceapp.test.feature.upload.feature-upload-release-45:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.remittanceapp.test.feature.upload.feature-upload-core-1.15.0-30:/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "com.remittanceapp.test.feature.upload.feature-upload-release-33:/layout-v21/notification_action_tombstone.xml",
-        "source": "com.remittanceapp.test.feature.upload.feature-upload-core-1.15.0-1:/layout-v21/notification_action_tombstone.xml"
+        "merged": "com.remittanceapp.test.feature.upload.feature-upload-release-45:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.remittanceapp.test.feature.upload.feature-upload-core-1.15.0-30:/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "com.remittanceapp.test.feature.upload.feature-upload-release-33:/layout-v21/notification_template_icon_group.xml",
-        "source": "com.remittanceapp.test.feature.upload.feature-upload-core-1.15.0-1:/layout-v21/notification_template_icon_group.xml"
+        "merged": "com.remittanceapp.test.feature.upload.feature-upload-release-45:/layout-v21/notification_action.xml",
+        "source": "com.remittanceapp.test.feature.upload.feature-upload-core-1.15.0-30:/layout-v21/notification_action.xml"
     },
     {
-        "merged": "com.remittanceapp.test.feature.upload.feature-upload-release-33:/layout-v21/notification_template_custom_big.xml",
-        "source": "com.remittanceapp.test.feature.upload.feature-upload-core-1.15.0-1:/layout-v21/notification_template_custom_big.xml"
+        "merged": "com.remittanceapp.test.feature.upload.feature-upload-release-45:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.remittanceapp.test.feature.upload.feature-upload-core-1.15.0-30:/layout-v21/notification_template_icon_group.xml"
     }
 ]

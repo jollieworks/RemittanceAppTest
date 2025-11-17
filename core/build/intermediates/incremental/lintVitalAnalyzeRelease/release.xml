@@ -7,7 +7,7 @@
     proguardFiles="build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-8.12.1;proguard-rules.pro"
     consumerProguardFiles="consumer-rules.pro"
     partialResultsDir="build\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out"
-    desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\db434d33240124e328cf52fddcc38753\transformed\D8BackportedDesugaredMethods.txt">
+    desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\f60336042600a85c30ad7cee5849b918\transformed\D8BackportedDesugaredMethods.txt">
   <buildFeatures
       namespacing="REQUIRED"/>
   <sourceProviders>
@@ -27,6 +27,6 @@
       applicationId="com.remittanceapp.test.core"
       generatedSourceFolders="build\generated\ap_generated_sources\release\out"
       generatedResourceFolders="build\generated\res\resValues\release"
-      desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\db434d33240124e328cf52fddcc38753\transformed\D8BackportedDesugaredMethods.txt">
+      desugaredMethodsFiles="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\f60336042600a85c30ad7cee5849b918\transformed\D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

@@ -1,9 +1,7 @@
-com.remittanceapp.test.domain-release-0 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\data\build\intermediates\packaged_res\release\packageReleaseResources
-com.remittanceapp.test.domain-pngs-1 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build\generated\res\pngs\release
-com.remittanceapp.test.domain-resValues-2 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build\generated\res\resValues\release
-com.remittanceapp.test.domain-mergeReleaseResources-3 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
-com.remittanceapp.test.domain-mergeReleaseResources-4 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-com.remittanceapp.test.domain-release-5 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build\intermediates\merged_res\release\mergeReleaseResources
-com.remittanceapp.test.domain-main-6 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\src\main\res
-com.remittanceapp.test.domain-release-7 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\src\release\res
-com.remittanceapp.test.domain-release-8 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\network\build\intermediates\packaged_res\release\packageReleaseResources
+com.remittanceapp.test.domain-pngs-0 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build\generated\res\pngs\release
+com.remittanceapp.test.domain-resValues-1 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build\generated\res\resValues\release
+com.remittanceapp.test.domain-mergeReleaseResources-2 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.remittanceapp.test.domain-mergeReleaseResources-3 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.remittanceapp.test.domain-release-4 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build\intermediates\merged_res\release\mergeReleaseResources
+com.remittanceapp.test.domain-main-5 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\src\main\res
+com.remittanceapp.test.domain-release-6 C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\src\release\res

@@ -1,22 +1,22 @@
 [
     {
         "merged": "com.remittanceapp.test.feature.receiver.feature-receiver-release-33:/drawable-xhdpi-v4/notification_bg_normal.9.png",
-        "source": "com.remittanceapp.test.feature.receiver.feature-receiver-core-1.15.0-1:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+        "source": "com.remittanceapp.test.feature.receiver.feature-receiver-core-1.15.0-21:/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "com.remittanceapp.test.feature.receiver.feature-receiver-release-33:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "com.remittanceapp.test.feature.receiver.feature-receiver-core-1.15.0-1:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "com.remittanceapp.test.feature.receiver.feature-receiver-core-1.15.0-21:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "com.remittanceapp.test.feature.receiver.feature-receiver-release-33:/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
-        "source": "com.remittanceapp.test.feature.receiver.feature-receiver-core-1.15.0-1:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "source": "com.remittanceapp.test.feature.receiver.feature-receiver-core-1.15.0-21:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "com.remittanceapp.test.feature.receiver.feature-receiver-release-33:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "com.remittanceapp.test.feature.receiver.feature-receiver-core-1.15.0-1:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "com.remittanceapp.test.feature.receiver.feature-receiver-core-1.15.0-21:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "com.remittanceapp.test.feature.receiver.feature-receiver-release-33:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "com.remittanceapp.test.feature.receiver.feature-receiver-core-1.15.0-1:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "com.remittanceapp.test.feature.receiver.feature-receiver-core-1.15.0-21:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     }
 ]

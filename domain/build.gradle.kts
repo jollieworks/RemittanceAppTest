@@ -33,12 +33,9 @@ android {
 }
 
 dependencies {
-    implementation(project(":data"))
-    implementation(project(":network"))
-
     implementation(libs.kotlinx.coroutines.core)
+    implementation(libs.javax.inject)
 
     testImplementation(libs.junit)
-    // For coroutine testing
     testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0")
 }

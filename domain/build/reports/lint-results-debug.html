@@ -179,7 +179,7 @@ document.getElementById(id).style.display = 'none';
     <div class="mdl-layout__header-row">
       <span class="mdl-layout-title">Lint Report: 2 warnings</span>
       <div class="mdl-layout-spacer"></div>
-      <nav class="mdl-navigation mdl-layout--large-screen-only">Check performed at Mon Nov 17 17:12:22 CET 2025 by AGP (8.12.1)</nav>
+      <nav class="mdl-navigation mdl-layout--large-screen-only">Check performed at Mon Nov 17 18:46:04 CET 2025 by AGP (8.12.1)</nav>
     </div>
   </header>
   <div class="mdl-layout__drawer">
@@ -229,12 +229,12 @@ Dismiss</button>            </div>
               <div class="mdl-card__supporting-text">
 <div class="issue">
 <div class="warningslist">
-<span class="location"><a href="../../build.gradle.kts">../../build.gradle.kts</a>:43</span>: <span class="message">A newer version of org.jetbrains.kotlinx:kotlinx-coroutines-test than 1.8.0 is available: 1.10.2</span><br /><pre class="errorlines">
-<span class="lineno"> 40 </span>
-<span class="lineno"> 41 </span>    testImplementation(libs.junit)
-<span class="lineno"> 42 </span>    // For coroutine testing
-<span class="caretline"><span class="lineno"> 43 </span>    testImplementation(<span class="warning">"org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0"</span>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno"> 44 </span>}
+<span class="location"><a href="../../build.gradle.kts">../../build.gradle.kts</a>:40</span>: <span class="message">A newer version of org.jetbrains.kotlinx:kotlinx-coroutines-test than 1.8.0 is available: 1.10.2</span><br /><pre class="errorlines">
+<span class="lineno"> 37 </span>    implementation(libs.javax.inject)
+<span class="lineno"> 38 </span>
+<span class="lineno"> 39 </span>    testImplementation(libs.junit)
+<span class="caretline"><span class="lineno"> 40 </span>    testImplementation(<span class="warning">"org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0"</span>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 41 </span>}
 </pre>
 
 </div>
@@ -275,12 +275,12 @@ Dismiss</button>            </div>
               <div class="mdl-card__supporting-text">
 <div class="issue">
 <div class="warningslist">
-<span class="location"><a href="../../build.gradle.kts">../../build.gradle.kts</a>:43</span>: <span class="message">Use version catalog instead</span><br /><pre class="errorlines">
-<span class="lineno"> 40 </span>
-<span class="lineno"> 41 </span>    testImplementation(libs.junit)
-<span class="lineno"> 42 </span>    // For coroutine testing
-<span class="caretline"><span class="lineno"> 43 </span>    testImplementation(<span class="warning">"org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0"</span>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span class="lineno"> 44 </span>}
+<span class="location"><a href="../../build.gradle.kts">../../build.gradle.kts</a>:40</span>: <span class="message">Use version catalog instead</span><br /><pre class="errorlines">
+<span class="lineno"> 37 </span>    implementation(libs.javax.inject)
+<span class="lineno"> 38 </span>
+<span class="lineno"> 39 </span>    testImplementation(libs.junit)
+<span class="caretline"><span class="lineno"> 40 </span>    testImplementation(<span class="warning">"org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0"</span>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span class="lineno"> 41 </span>}
 </pre>
 
 </div>

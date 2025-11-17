@@ -4,7 +4,7 @@
             "outputFile": "com.remittanceapp.test.feature.wallet.feature-wallet-release-44:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\8.13\\transforms\\078e9c34b93a94bad57650c48dbbb72a\\transformed\\core-1.15.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\8.13\\transforms\\d69531ffcb0f41916782f5c7fb303e14\\transformed\\core-1.15.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -20,7 +20,7 @@
             "outputFile": "com.remittanceapp.test.feature.wallet.feature-wallet-mergeReleaseResources-42:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\8.13\\transforms\\078e9c34b93a94bad57650c48dbbb72a\\transformed\\core-1.15.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Gebruiker\\.gradle\\caches\\8.13\\transforms\\d69531ffcb0f41916782f5c7fb303e14\\transformed\\core-1.15.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

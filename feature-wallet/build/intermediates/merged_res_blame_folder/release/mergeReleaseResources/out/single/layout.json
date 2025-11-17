@@ -1,22 +1,22 @@
 [
     {
         "merged": "com.remittanceapp.test.feature.wallet.feature-wallet-release-44:/layout/ime_secondary_split_test_activity.xml",
-        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-2:/layout/ime_secondary_split_test_activity.xml"
+        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-30:/layout/ime_secondary_split_test_activity.xml"
     },
     {
         "merged": "com.remittanceapp.test.feature.wallet.feature-wallet-release-44:/layout/ime_base_split_test_activity.xml",
-        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-2:/layout/ime_base_split_test_activity.xml"
+        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-30:/layout/ime_base_split_test_activity.xml"
     },
     {
         "merged": "com.remittanceapp.test.feature.wallet.feature-wallet-release-44:/layout/custom_dialog.xml",
-        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-2:/layout/custom_dialog.xml"
+        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-30:/layout/custom_dialog.xml"
     },
     {
         "merged": "com.remittanceapp.test.feature.wallet.feature-wallet-release-44:/layout/notification_template_part_time.xml",
-        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-2:/layout/notification_template_part_time.xml"
+        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-30:/layout/notification_template_part_time.xml"
     },
     {
         "merged": "com.remittanceapp.test.feature.wallet.feature-wallet-release-44:/layout/notification_template_part_chronometer.xml",
-        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-2:/layout/notification_template_part_chronometer.xml"
+        "source": "com.remittanceapp.test.feature.wallet.feature-wallet-core-1.15.0-30:/layout/notification_template_part_chronometer.xml"
     }
 ]

@@ -1,23 +1,34 @@
 package com.remittanceapp.test.feature.upload.screens
 
-import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.*
 import androidx.compose.material3.Button
+import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextField
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import kotlinx.coroutines.delay
-import kotlinx.coroutines.launch // Added this import
+import androidx.hilt.navigation.compose.hiltViewModel
+import com.remittanceapp.test.feature.upload.viewmodel.UploadUiState
+import com.remittanceapp.test.feature.upload.viewmodel.UploadViewModel
+import kotlinx.coroutines.flow.collectLatest
 
 @Composable
-fun UploadScreen(onPaymentComplete: () -> Unit) {
+fun UploadScreen(
+    onPaymentComplete: () -> Unit,
+    viewModel: UploadViewModel = hiltViewModel()
+) {
     var amount by remember { mutableStateOf("") }
-    val coroutineScope = rememberCoroutineScope()
+    val uiState by viewModel.uiState.collectAsState()
+
+    LaunchedEffect(key1 = viewModel) {
+        viewModel.uiState.collectLatest { state ->
+            if (state is UploadUiState.Success) {
+                onPaymentComplete()
+            }
+        }
+    }
 
     Column(
         modifier = Modifier
@@ -29,15 +40,23 @@ fun UploadScreen(onPaymentComplete: () -> Unit) {
         TextField(
             value = amount,
             onValueChange = { amount = it },
-            label = { Text("Bedrag") }
+            label = { Text("Bedrag") },
+            isError = uiState is UploadUiState.Error
         )
-        Button(onClick = {
-            coroutineScope.launch {
-                delay(1000) // Simulate payment processing
-                onPaymentComplete()
+        Spacer(modifier = Modifier.height(16.dp))
+
+        when (uiState) {
+            is UploadUiState.Loading -> {
+                CircularProgressIndicator()
             }
-        }) {
-            Text("IDEAL (Mock) Betalen")
+            is UploadUiState.Error -> {
+                Text((uiState as UploadUiState.Error).message)
+            }
+            else -> {
+                Button(onClick = { viewModel.processPayment(amount) }) {
+                    Text("IDEAL (Mock) Betalen")
+                }
+            }
         }
     }
 }

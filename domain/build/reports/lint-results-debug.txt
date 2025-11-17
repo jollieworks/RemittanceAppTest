@@ -1,4 +1,4 @@
-C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build.gradle.kts:43: Warning: A newer version of org.jetbrains.kotlinx:kotlinx-coroutines-test than 1.8.0 is available: 1.10.2 [NewerVersionAvailable]
+C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build.gradle.kts:40: Warning: A newer version of org.jetbrains.kotlinx:kotlinx-coroutines-test than 1.8.0 is available: 1.10.2 [NewerVersionAvailable]
     testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0")
                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -10,7 +10,7 @@ C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build.gradle.k
    MavenCentral dependency, and connects to the library every time, which
    makes it more flexible but also much slower.
 
-C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build.gradle.kts:43: Warning: Use version catalog instead [UseTomlInstead]
+C:\Users\Gebruiker\AndroidStudioProjects\RemittanceAppTest\domain\build.gradle.kts:40: Warning: Use version catalog instead [UseTomlInstead]
     testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0")
                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

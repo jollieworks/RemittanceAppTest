@@ -1,9 +1,9 @@
 <libraries>
   <library
       name=":@@:core::debug"
-      jars="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\9363163b3d3d770759417b51c95eb5c8\transformed\out\jars\classes.jar;C:\Users\Gebruiker\.gradle\caches\8.13\transforms\9363163b3d3d770759417b51c95eb5c8\transformed\out\jars\libs\R.jar"
+      jars="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\4ba920253d53dd89a8b4043286384ea4\transformed\out\jars\classes.jar;C:\Users\Gebruiker\.gradle\caches\8.13\transforms\4ba920253d53dd89a8b4043286384ea4\transformed\out\jars\libs\R.jar"
       resolved="RemittanceAppTest:core:unspecified"
-      folder="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\9363163b3d3d770759417b51c95eb5c8\transformed\out"
+      folder="C:\Users\Gebruiker\.gradle\caches\8.13\transforms\4ba920253d53dd89a8b4043286384ea4\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
